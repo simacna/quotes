@@ -1,8 +1,4 @@
 <?php
-# CSE 154, Marty Stepp
-# Server-side web service for Quote of the Day example
-# (provides random quotes from quotes.txt, in plain text, upon each request)
-
 
 # sleep(1);
 
